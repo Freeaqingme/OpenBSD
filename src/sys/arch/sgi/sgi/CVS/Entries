@@ -1,0 +1,25 @@
+/autoconf.c/1.36/Sat Sep 29 21:46:02 2012//TOPENBSD_5_3
+/bus_dma.c/1.30/Wed Oct  3 22:46:09 2012//TOPENBSD_5_3
+/conf.c/1.31/Thu Aug 23 06:12:49 2012//TOPENBSD_5_3
+/disksubr.c/1.26/Sun Jul 10 16:16:08 2011//TOPENBSD_5_3
+/eisa_machdep.c/1.2/Sun Apr 15 20:44:52 2012//TOPENBSD_5_3
+/genassym.cf/1.21/Sun Jan  3 14:17:27 2010//TOPENBSD_5_3
+/intr_template.c/1.13/Sat Sep 29 19:24:31 2012//TOPENBSD_5_3
+/ip22.h/1.8/Sat Sep 29 21:46:02 2012//TOPENBSD_5_3
+/ip22_machdep.c/1.14/Sat Sep 29 21:46:02 2012//TOPENBSD_5_3
+/ip27.h/1.4/Sun May  9 18:37:47 2010//TOPENBSD_5_3
+/ip27_machdep.c/1.57/Wed Oct  3 11:18:23 2012//TOPENBSD_5_3
+/ip30.h/1.10/Sun Jun 17 12:34:19 2012//TOPENBSD_5_3
+/ip30_machdep.c/1.57/Wed Oct  3 11:18:23 2012//TOPENBSD_5_3
+/ip30_nmi.S/1.6/Wed Oct  3 11:18:23 2012//TOPENBSD_5_3
+/ip32_machdep.c/1.21/Wed Oct  3 22:46:09 2012//TOPENBSD_5_3
+/l1.c/1.7/Sat Mar 12 23:43:19 2011//TOPENBSD_5_3
+/l1.h/1.5/Sun May  9 18:37:47 2010//TOPENBSD_5_3
+/lock_machdep.c/1.4/Sat Sep 29 19:24:31 2012//TOPENBSD_5_3
+/locore.S/1.15/Wed Oct  3 11:18:23 2012//TOPENBSD_5_3
+/machdep.c/1.132/Mon Oct  8 21:47:50 2012//TOPENBSD_5_3
+/mainbus.c/1.13/Sat Sep 29 21:46:02 2012//TOPENBSD_5_3
+/mutex.c/1.12/Thu Apr 21 04:34:12 2011//TOPENBSD_5_3
+/sginode.c/1.29/Mon May 30 22:25:22 2011//TOPENBSD_5_3
+/wscons_machdep.c/1.11/Wed Apr 18 17:28:24 2012//TOPENBSD_5_3
+D

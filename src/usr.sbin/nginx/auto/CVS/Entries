@@ -1,0 +1,21 @@
+/define/1.2/Sat Feb 18 11:20:21 2012//TOPENBSD_5_3
+/endianness/1.1/Sat Jul  7 16:01:48 2012//TOPENBSD_5_3
+/feature/1.2/Sat Feb 18 11:20:21 2012//TOPENBSD_5_3
+/have/1.2/Sat Feb 18 11:20:21 2012//TOPENBSD_5_3
+/have_headers/1.2/Sat Feb 18 11:20:21 2012//TOPENBSD_5_3
+/headers/1.2/Sat Feb 18 11:20:21 2012//TOPENBSD_5_3
+/include/1.2/Sat Feb 18 11:20:21 2012//TOPENBSD_5_3
+/init/1.2/Sat Feb 18 11:20:21 2012//TOPENBSD_5_3
+/install/1.7/Mon Oct  8 10:44:42 2012//TOPENBSD_5_3
+/make/1.4/Wed Nov 14 21:35:00 2012//TOPENBSD_5_3
+/modules/1.5/Sat Jul  7 16:01:48 2012//TOPENBSD_5_3
+/nohave/1.2/Sat Feb 18 11:20:21 2012//TOPENBSD_5_3
+/options/1.7/Wed Nov 14 21:35:00 2012//TOPENBSD_5_3
+/sources/1.8/Sat Jul  7 16:01:48 2012//TOPENBSD_5_3
+/stubs/1.2/Sat Feb 18 11:20:21 2012//TOPENBSD_5_3
+/summary/1.3/Sun May 13 09:14:58 2012//TOPENBSD_5_3
+/unix/1.7/Sat Jul  7 16:01:48 2012//TOPENBSD_5_3
+D/cc////
+D/lib////
+D/os////
+D/types////

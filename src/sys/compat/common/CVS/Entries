@@ -1,0 +1,7 @@
+/compat_dir.c/1.5/Tue Aug 19 09:49:50 2008//TOPENBSD_5_3
+/compat_dir.h/1.2/Thu Mar 14 03:16:02 2002//TOPENBSD_5_3
+/compat_exec.c/1.7/Thu Nov 15 06:22:29 2001//TOPENBSD_5_3
+/compat_util.c/1.10/Sun Aug  1 06:22:28 2004//TOPENBSD_5_3
+/compat_util.h/1.7/Thu Mar 14 01:26:49 2002//TOPENBSD_5_3
+/tty_43.c/1.10/Mon Jul 26 01:56:27 2010//TOPENBSD_5_3
+D

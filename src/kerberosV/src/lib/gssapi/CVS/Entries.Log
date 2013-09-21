@@ -1,0 +1,10 @@
+A D/gssapi////
+A D/krb5////
+A D/mech////
+A D/ntlm////
+A D/spnego////
+R D/spnego////
+R D/ntlm////
+R D/mech////
+R D/krb5////
+R D/gssapi////

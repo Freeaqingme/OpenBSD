@@ -1,0 +1,15 @@
+/Makefile/1.6/Thu May 25 21:55:03 2000//TOPENBSD_5_3
+/Makefile.inc/1.10/Sun Feb 10 20:27:18 2013//TOPENBSD_5_3
+/ld.script/1.2/Sun Feb 10 20:27:18 2013//TOPENBSD_5_3
+D/bootsd////
+D/bootst////
+D/bootxx////
+D/bugcrt////
+D/installboot////
+D/libbug////
+D/libsa////
+D/libz////
+D/netboot////
+D/prtvid////
+D/sboot////
+D/wrtvid////

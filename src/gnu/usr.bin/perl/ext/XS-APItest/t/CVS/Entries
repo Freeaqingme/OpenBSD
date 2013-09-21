@@ -1,0 +1,16 @@
+/call.t/1.1.1.2/Fri Sep 24 14:48:48 2010/-ko/TOPENBSD_5_3
+/exception.t/1.1.1.2/Fri Sep 24 14:48:48 2010/-ko/TOPENBSD_5_3
+/hash.t/1.1.1.2/Fri Sep 24 14:48:48 2010/-ko/TOPENBSD_5_3
+/my_cxt.t/1.1.1.2/Fri Sep 24 14:48:48 2010/-ko/TOPENBSD_5_3
+/my_exit.t/1.1.1.1/Fri Sep 24 14:48:48 2010/-ko/TOPENBSD_5_3
+/op.t/1.1.1.2/Fri Sep 24 14:48:48 2010/-ko/TOPENBSD_5_3
+/pmflag.t/1.1.1.1/Fri Sep 24 14:48:48 2010/-ko/TOPENBSD_5_3
+/printf.t/1.1.1.2/Fri Sep 24 14:48:48 2010/-ko/TOPENBSD_5_3
+/push.t/1.1.1.2/Fri Sep 24 14:48:48 2010/-ko/TOPENBSD_5_3
+/rmagical.t/1.1.1.1/Mon Oct 12 18:11:18 2009/-ko/TOPENBSD_5_3
+/svpeek.t/1.1.1.2/Fri Sep 24 14:48:48 2010/-ko/TOPENBSD_5_3
+/svsetsv.t/1.1.1.2/Fri Sep 24 14:48:48 2010/-ko/TOPENBSD_5_3
+/utf16_to_utf8.t/1.1.1.1/Fri Sep 24 14:48:48 2010/-ko/TOPENBSD_5_3
+/xs_special_subs.t/1.1.1.2/Fri Sep 24 14:48:48 2010/-ko/TOPENBSD_5_3
+/xs_special_subs_require.t/1.1.1.2/Fri Sep 24 14:48:48 2010/-ko/TOPENBSD_5_3
+D

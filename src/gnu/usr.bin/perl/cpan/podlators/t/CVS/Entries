@@ -1,0 +1,25 @@
+/basic.cap/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_3
+/basic.clr/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_3
+/basic.man/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_3
+/basic.ovr/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_3
+/basic.pod/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_3
+/basic.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_3
+/basic.txt/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_3
+/color.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_3
+/devise-date.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_3
+/filehandle.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_3
+/man-heading.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_3
+/man-options.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_3
+/man-utf8.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_3
+/man.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_3
+/overstrike.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_3
+/parselink.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_3
+/pod-parser.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_3
+/pod-spelling.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_3
+/pod.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_3
+/termcap.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_3
+/text-encoding.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_3
+/text-options.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_3
+/text-utf8.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_3
+/text.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_3
+D

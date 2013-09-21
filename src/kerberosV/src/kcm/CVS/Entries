@@ -1,0 +1,20 @@
+/Makefile.am/1.1.1.1/Fri Apr 14 07:32:39 2006//TOPENBSD_5_3
+/Makefile.in/1.1.1.1/Fri Apr 14 07:32:39 2006//TOPENBSD_5_3
+/acl.c/1.1.1.1/Fri Apr 14 07:32:39 2006//TOPENBSD_5_3
+/acquire.c/1.1.1.1/Fri Apr 14 07:32:40 2006//TOPENBSD_5_3
+/cache.c/1.1.1.1/Fri Apr 14 07:32:40 2006//TOPENBSD_5_3
+/client.c/1.1.1.1/Fri Apr 14 07:32:40 2006//TOPENBSD_5_3
+/config.c/1.1.1.1/Fri Apr 14 07:32:40 2006//TOPENBSD_5_3
+/connect.c/1.4/Mon Mar 24 16:11:00 2008//TOPENBSD_5_3
+/cursor.c/1.1.1.1/Fri Apr 14 07:32:40 2006//TOPENBSD_5_3
+/events.c/1.1.1.1/Fri Apr 14 07:32:41 2006//TOPENBSD_5_3
+/glue.c/1.1.1.1/Fri Apr 14 07:32:41 2006//TOPENBSD_5_3
+/headers.h/1.1.1.1/Fri Apr 14 07:32:41 2006//TOPENBSD_5_3
+/kcm.8/1.1.1.1/Fri Apr 14 07:32:41 2006//TOPENBSD_5_3
+/kcm_locl.h/1.1.1.1/Fri Apr 14 07:32:41 2006//TOPENBSD_5_3
+/kcm_protos.h/1.1.1.1/Fri Apr 14 07:32:41 2006//TOPENBSD_5_3
+/log.c/1.1.1.1/Fri Apr 14 07:32:41 2006//TOPENBSD_5_3
+/main.c/1.1.1.1/Fri Apr 14 07:32:41 2006//TOPENBSD_5_3
+/protocol.c/1.1.1.1/Fri Apr 14 07:32:41 2006//TOPENBSD_5_3
+/renew.c/1.1.1.1/Fri Apr 14 07:32:41 2006//TOPENBSD_5_3
+D

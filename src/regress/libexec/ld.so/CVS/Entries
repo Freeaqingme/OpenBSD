@@ -1,0 +1,14 @@
+/Makefile/1.13/Tue Aug 21 01:57:17 2012//TOPENBSD_5_3
+D/constructor////
+D/df_1_noopen////
+D/dlclose////
+D/dlopen////
+D/dlsym////
+D/edgecases////
+D/elf////
+D/hidden////
+D/initfirst////
+D/lazy////
+D/link-order////
+D/randomdata////
+D/weak////

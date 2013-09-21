@@ -1,0 +1,16 @@
+/Makefile/1.4/Mon May 16 15:22:46 2005//TOPENBSD_5_3
+/README/1.2/Tue Mar  5 08:56:55 2002//TOPENBSD_5_3
+/backupfile.c/1.20/Tue Oct 27 23:59:41 2009//TOPENBSD_5_3
+/backupfile.h/1.6/Mon Jul 28 18:35:36 2003//TOPENBSD_5_3
+/common.h/1.26/Sat Mar 11 19:41:30 2006//TOPENBSD_5_3
+/inp.c/1.36/Tue Apr 10 14:46:34 2012//TOPENBSD_5_3
+/inp.h/1.8/Fri Aug 15 08:00:51 2003//TOPENBSD_5_3
+/mkpath.c/1.2/Mon Jun 20 07:14:06 2005//TOPENBSD_5_3
+/patch.1/1.26/Fri Sep  3 11:09:29 2010//TOPENBSD_5_3
+/patch.c/1.50/Tue May 15 19:32:02 2012//TOPENBSD_5_3
+/pathnames.h/1.1/Tue Jul 29 20:10:17 2003//TOPENBSD_5_3
+/pch.c/1.39/Wed Apr 11 08:07:13 2012//TOPENBSD_5_3
+/pch.h/1.9/Fri Oct 31 20:20:45 2003//TOPENBSD_5_3
+/util.c/1.35/Sat Jul 24 01:10:12 2010//TOPENBSD_5_3
+/util.h/1.15/Mon Jun 20 07:14:06 2005//TOPENBSD_5_3
+D

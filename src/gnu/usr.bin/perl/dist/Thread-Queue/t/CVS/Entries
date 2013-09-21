@@ -1,0 +1,9 @@
+/01_basic.t/1.1.1.1/Fri Sep 24 14:48:48 2010/-ko/TOPENBSD_5_3
+/02_refs.t/1.1.1.1/Fri Sep 24 14:48:48 2010/-ko/TOPENBSD_5_3
+/03_peek.t/1.1.1.1/Fri Sep 24 14:48:48 2010/-ko/TOPENBSD_5_3
+/04_errs.t/1.1.1.1/Fri Sep 24 14:48:48 2010/-ko/TOPENBSD_5_3
+/05_extract.t/1.1.1.1/Fri Sep 24 14:48:48 2010/-ko/TOPENBSD_5_3
+/06_insert.t/1.1.1.1/Fri Sep 24 14:48:48 2010/-ko/TOPENBSD_5_3
+/07_lock.t/1.1.1.1/Fri Sep 24 14:48:48 2010/-ko/TOPENBSD_5_3
+/08_nothreads.t/1.1.1.1/Fri Sep 24 14:48:48 2010/-ko/TOPENBSD_5_3
+D

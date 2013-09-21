@@ -1,0 +1,15 @@
+/Makefile/1.3/Tue Apr  5 18:26:19 2011//TOPENBSD_5_3
+/connection.c/1.13/Wed May  4 21:00:04 2011//TOPENBSD_5_3
+/control.c/1.3/Wed Apr 11 08:16:37 2012//TOPENBSD_5_3
+/initiator.c/1.9/Wed May  4 21:00:04 2011//TOPENBSD_5_3
+/iscsid.8/1.7/Wed Sep 26 16:19:44 2012//TOPENBSD_5_3
+/iscsid.c/1.8/Sat Aug 20 19:03:39 2011//TOPENBSD_5_3
+/iscsid.h/1.9/Wed May  4 21:00:04 2011//TOPENBSD_5_3
+/log.c/1.5/Sat Aug 20 19:03:39 2011//TOPENBSD_5_3
+/log.h/1.2/Wed Apr 27 18:59:01 2011//TOPENBSD_5_3
+/pdu.c/1.6/Wed May  4 21:00:04 2011//TOPENBSD_5_3
+/session.c/1.4/Wed May  4 21:00:04 2011//TOPENBSD_5_3
+/task.c/1.9/Thu Apr 28 18:32:01 2011//TOPENBSD_5_3
+/util.c/1.2/Sat Sep 25 16:20:06 2010//TOPENBSD_5_3
+/vscsi.c/1.8/Wed May  4 21:00:04 2011//TOPENBSD_5_3
+D

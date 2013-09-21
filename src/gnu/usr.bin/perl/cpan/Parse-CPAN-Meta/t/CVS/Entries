@@ -1,0 +1,16 @@
+/01_compile.t/1.1.1.1/Fri Sep 24 14:49:04 2010/-ko/TOPENBSD_5_3
+/02_basic.t/1.1.1.1/Fri Sep 24 14:49:04 2010/-ko/TOPENBSD_5_3
+/03_regression.t/1.1.1.1/Fri Sep 24 14:49:04 2010/-ko/TOPENBSD_5_3
+/04_scalar.t/1.1.1.1/Fri Sep 24 14:49:04 2010/-ko/TOPENBSD_5_3
+/05_export.t/1.1.1.1/Fri Sep 24 14:49:04 2010/-ko/TOPENBSD_5_3
+/11_meta_yml.t/1.1.1.1/Fri Sep 24 14:49:04 2010/-ko/TOPENBSD_5_3
+/12_plagger.t/1.1.1.1/Fri Sep 24 14:49:04 2010/-ko/TOPENBSD_5_3
+/13_perl_smith.t/1.1.1.1/Fri Sep 24 14:49:04 2010/-ko/TOPENBSD_5_3
+/14_yaml_org.t/1.1.1.1/Fri Sep 24 14:49:04 2010/-ko/TOPENBSD_5_3
+/15_multibyte.t/1.1.1.1/Fri Sep 24 14:49:04 2010/-ko/TOPENBSD_5_3
+/16_nullrefs.t/1.1.1.1/Fri Sep 24 14:49:04 2010/-ko/TOPENBSD_5_3
+/17_toolbar.t/1.1.1.1/Fri Sep 24 14:49:04 2010/-ko/TOPENBSD_5_3
+/18_tap.t/1.1.1.1/Fri Sep 24 14:49:04 2010/-ko/TOPENBSD_5_3
+/19_errors.t/1.1.1.1/Fri Sep 24 14:49:04 2010/-ko/TOPENBSD_5_3
+/21_bom.t/1.1.1.1/Fri Sep 24 14:49:04 2010/-ko/TOPENBSD_5_3
+D

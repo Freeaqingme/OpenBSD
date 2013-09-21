@@ -1,0 +1,10 @@
+/APItest.pm/1.1.1.2/Fri Sep 24 14:48:48 2010/-ko/TOPENBSD_5_3
+/APItest.xs/1.1.1.2/Fri Sep 24 14:48:48 2010/-ko/TOPENBSD_5_3
+/MANIFEST/1.1.1.1/Mon Oct 12 18:11:18 2009/-ko/TOPENBSD_5_3
+/Makefile.PL/1.1.1.1/Mon Oct 12 18:11:18 2009/-ko/TOPENBSD_5_3
+/README/1.1.1.1/Mon Oct 12 18:11:18 2009/-ko/TOPENBSD_5_3
+/core.c/1.1.1.1/Mon Oct 12 18:11:18 2009/-ko/TOPENBSD_5_3
+/core_or_not.inc/1.1.1.1/Mon Oct 12 18:11:18 2009/-ko/TOPENBSD_5_3
+/exception.c/1.1.1.1/Mon Oct 12 18:11:18 2009/-ko/TOPENBSD_5_3
+/notcore.c/1.1.1.1/Mon Oct 12 18:11:18 2009/-ko/TOPENBSD_5_3
+D

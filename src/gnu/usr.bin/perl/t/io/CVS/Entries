@@ -1,0 +1,27 @@
+/argv.t/1.9/Mon Sep 29 17:36:18 2008/-ko/TOPENBSD_5_3
+/binmode.t/1.1.1.4/Tue Mar 28 18:49:41 2006/-ko/TOPENBSD_5_3
+/crlf.t/1.1.1.5/Mon Oct 12 18:10:42 2009/-ko/TOPENBSD_5_3
+/crlf_through.t/1.1.1.1/Tue Mar 28 18:49:41 2006/-ko/TOPENBSD_5_3
+/dup.t/1.11/Fri Sep 24 15:07:05 2010/-ko/TOPENBSD_5_3
+/errno.t/1.1.1.1/Fri Sep 24 14:49:19 2010/-ko/TOPENBSD_5_3
+/fflush.t/1.1.1.3/Mon Oct 12 18:10:42 2009/-ko/TOPENBSD_5_3
+/fs.t/1.11/Fri Sep 24 15:07:05 2010/-ko/TOPENBSD_5_3
+/inplace.t/1.10/Fri Sep 24 15:07:05 2010/-ko/TOPENBSD_5_3
+/iprefix.t/1.1.1.4/Mon Oct 12 18:10:42 2009/-ko/TOPENBSD_5_3
+/layers.t/1.1.1.7/Fri Sep 24 14:49:19 2010/-ko/TOPENBSD_5_3
+/nargv.t/1.1.1.3/Mon Oct 12 18:10:42 2009/-ko/TOPENBSD_5_3
+/open.t/1.11/Fri Sep 24 15:07:05 2010/-ko/TOPENBSD_5_3
+/openpid.t/1.1.1.6/Fri Sep 24 14:49:19 2010/-ko/TOPENBSD_5_3
+/perlio.t/1.1.1.2/Fri Sep 24 14:49:19 2010/-ko/TOPENBSD_5_3
+/perlio_fail.t/1.1.1.1/Mon Oct 12 18:10:42 2009/-ko/TOPENBSD_5_3
+/perlio_leaks.t/1.1.1.2/Fri Sep 24 14:49:19 2010/-ko/TOPENBSD_5_3
+/perlio_open.t/1.1.1.2/Fri Sep 24 14:49:19 2010/-ko/TOPENBSD_5_3
+/pipe.t/1.9/Fri Sep 24 15:07:05 2010/-ko/TOPENBSD_5_3
+/print.t/1.8/Mon Sep 29 17:36:18 2008/-ko/TOPENBSD_5_3
+/pvbm.t/1.1.1.1/Mon Oct 12 18:10:42 2009/-ko/TOPENBSD_5_3
+/read.t/1.9/Mon Oct 12 18:30:27 2009/-ko/TOPENBSD_5_3
+/say.t/1.1.1.1/Mon Sep 29 17:18:58 2008/-ko/TOPENBSD_5_3
+/tell.t/1.11/Fri Sep 24 15:07:05 2010/-ko/TOPENBSD_5_3
+/through.t/1.1.1.2/Mon Oct 12 18:10:42 2009/-ko/TOPENBSD_5_3
+/utf8.t/1.1.1.6/Mon Oct 12 18:10:42 2009/-ko/TOPENBSD_5_3
+D

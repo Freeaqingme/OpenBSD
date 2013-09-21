@@ -1,0 +1,20 @@
+/Makefile/1.3/Sat Nov 19 14:16:53 2011//TOPENBSD_5_3
+/baddate.in/1.1/Sat Nov 19 14:16:53 2011//TOPENBSD_5_3
+/baddate.out_ascii/1.2/Fri Dec  2 01:50:46 2011//TOPENBSD_5_3
+/emptydate.in/1.1/Sat Nov 19 14:16:53 2011//TOPENBSD_5_3
+/emptydate.out_ascii/1.2/Fri Dec  2 01:50:46 2011//TOPENBSD_5_3
+/isodate.in/1.1/Sat Nov 19 14:16:53 2011//TOPENBSD_5_3
+/isodate.out_ascii/1.2/Fri Dec  2 01:50:46 2011//TOPENBSD_5_3
+/mdocdate.in/1.1/Sat Nov 19 14:16:53 2011//TOPENBSD_5_3
+/mdocdate.out_ascii/1.2/Fri Dec  2 01:50:46 2011//TOPENBSD_5_3
+/noarg.in/1.1/Mon Jan 17 00:15:19 2011//TOPENBSD_5_3
+/noarg.out_ascii/1.2/Thu Nov 17 16:28:45 2011//TOPENBSD_5_3
+/onearg.in/1.1/Mon Jan 17 00:15:19 2011//TOPENBSD_5_3
+/onearg.out_ascii/1.2/Thu Nov 17 16:28:45 2011//TOPENBSD_5_3
+/onlyyear.in/1.1/Sat Nov 19 14:16:53 2011//TOPENBSD_5_3
+/onlyyear.out_ascii/1.2/Fri Dec  2 01:50:46 2011//TOPENBSD_5_3
+/sixargs.in/1.2/Thu Nov 17 16:28:45 2011//TOPENBSD_5_3
+/sixargs.out_ascii/1.2/Thu Nov 17 16:28:45 2011//TOPENBSD_5_3
+/twoargs.in/1.1/Sat Nov 19 14:16:53 2011//TOPENBSD_5_3
+/twoargs.out_ascii/1.1/Sat Nov 19 14:16:53 2011//TOPENBSD_5_3
+D

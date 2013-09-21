@@ -1,0 +1,16 @@
+/if_le.c/1.5/Thu Jun 26 05:42:11 2008//TOPENBSD_5_3
+/lcd.c/1.4/Thu Jun 26 05:42:11 2008//TOPENBSD_5_3
+/lunafb.c/1.12/Sun Jan  8 00:31:35 2012//TOPENBSD_5_3
+/lunaws.c/1.7/Thu Sep 11 11:30:14 2008//TOPENBSD_5_3
+/mb89352.c/1.17/Mon May 30 20:01:29 2011//TOPENBSD_5_3
+/mb89352reg.h/1.4/Fri Oct 17 18:30:20 2008//TOPENBSD_5_3
+/mb89352var.h/1.4/Mon May 30 20:01:29 2011//TOPENBSD_5_3
+/omrasops.c/1.6/Sat Sep  5 14:09:35 2009//TOPENBSD_5_3
+/sio.c/1.4/Thu Jun 26 05:42:11 2008//TOPENBSD_5_3
+/sioreg.h/1.1/Wed Apr 21 15:23:55 2004//TOPENBSD_5_3
+/siotty.c/1.15/Wed Sep 29 13:39:03 2010//TOPENBSD_5_3
+/siovar.h/1.2/Thu Jun 26 05:42:11 2008//TOPENBSD_5_3
+/spc.c/1.6/Mon Feb 16 21:19:05 2009//TOPENBSD_5_3
+/timekeeper.c/1.5/Mon Sep 20 06:33:47 2010//TOPENBSD_5_3
+/timekeeper.h/1.2/Thu Jun 26 05:42:11 2008//TOPENBSD_5_3
+D

@@ -1,0 +1,22 @@
+/Makefile/1.15/Fri Nov 23 15:50:11 2012//TOPENBSD_5_3
+/bpf.c/1.26/Thu Feb 14 20:39:46 2013//TOPENBSD_5_3
+/clparse.c/1.53/Sat Feb  9 23:37:21 2013//TOPENBSD_5_3
+/conflex.c/1.18/Thu Nov 15 14:54:18 2012//TOPENBSD_5_3
+/convert.c/1.5/Sat Feb  7 11:35:59 2004//TOPENBSD_5_3
+/dhclient.8/1.20/Sat Feb 23 22:00:37 2013//TOPENBSD_5_3
+/dhclient.c/1.240/Wed Feb 27 17:25:59 2013//TOPENBSD_5_3
+/dhclient.conf.5/1.28/Sun Feb 24 12:18:43 2013//TOPENBSD_5_3
+/dhclient.leases.5/1.8/Sun Feb 24 12:18:43 2013//TOPENBSD_5_3
+/dhcp.h/1.11/Sun Jan 13 18:38:02 2013//TOPENBSD_5_3
+/dhcpd.h/1.111/Mon Feb 18 15:57:08 2013//TOPENBSD_5_3
+/dhctoken.h/1.7/Tue Oct 30 18:39:44 2012//TOPENBSD_5_3
+/dispatch.c/1.75/Mon Feb 18 15:57:08 2013//TOPENBSD_5_3
+/errwarn.c/1.19/Tue Dec  4 19:24:03 2012//TOPENBSD_5_3
+/kroute.c/1.40/Thu Feb 28 21:00:53 2013//TOPENBSD_5_3
+/options.c/1.51/Thu Feb 14 20:39:46 2013//TOPENBSD_5_3
+/packet.c/1.16/Sun Feb  3 21:04:19 2013//TOPENBSD_5_3
+/parse.c/1.21/Thu Nov  8 21:32:55 2012//TOPENBSD_5_3
+/privsep.c/1.30/Mon Feb 18 15:57:08 2013//TOPENBSD_5_3
+/privsep.h/1.16/Wed Feb 20 18:50:29 2013//TOPENBSD_5_3
+/tables.c/1.12/Wed Jan  2 14:47:40 2013//TOPENBSD_5_3
+D

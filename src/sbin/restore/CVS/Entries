@@ -1,0 +1,12 @@
+/Makefile/1.5/Sun Sep 21 11:38:02 1997//TOPENBSD_5_3
+/dirs.c/1.33/Mon Jun 27 23:40:57 2011//TOPENBSD_5_3
+/extern.h/1.10/Tue Jun 14 19:46:05 2005//TOPENBSD_5_3
+/interactive.c/1.27/Mon Jun 27 23:40:57 2011//TOPENBSD_5_3
+/main.c/1.19/Tue Oct 27 23:59:34 2009//TOPENBSD_5_3
+/restore.8/1.35/Thu Jan 17 21:22:43 2013//TOPENBSD_5_3
+/restore.c/1.16/Tue Oct 27 23:59:34 2009//TOPENBSD_5_3
+/restore.h/1.8/Tue Jul 20 20:47:13 2010//TOPENBSD_5_3
+/symtab.c/1.19/Mon Jun 27 23:40:57 2011//TOPENBSD_5_3
+/tape.c/1.40/Sat Jul 14 08:58:18 2012//TOPENBSD_5_3
+/utilities.c/1.16/Tue Oct 27 23:59:34 2009//TOPENBSD_5_3
+D

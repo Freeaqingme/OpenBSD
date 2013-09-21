@@ -1,0 +1,12 @@
+/Makefile/1.18/Fri Aug 31 00:11:27 2012//TOPENBSD_5_3
+/Makefile.asn1.inc/1.7/Fri Apr 14 08:24:41 2006//TOPENBSD_5_3
+/Makefile.com_err.inc/1.3/Tue Jul 15 19:29:29 2003//TOPENBSD_5_3
+/Makefile.common.inc/1.3/Mon Jun 23 14:39:14 2003//TOPENBSD_5_3
+/Makefile.hdb.inc/1.6/Fri Apr 14 08:24:41 2006//TOPENBSD_5_3
+/Makefile.kafs.inc/1.6/Sat Apr 29 12:35:56 2006//TOPENBSD_5_3
+/Makefile.krb5.inc/1.16/Thu Aug 13 19:54:58 2009//TOPENBSD_5_3
+/Makefile.roken.inc/1.5/Fri May 21 17:21:54 2010//TOPENBSD_5_3
+/afssys_openbsd.c/1.3/Thu Aug 23 06:41:09 2012//TOPENBSD_5_3
+/com_err.3/1.1/Tue Jul 15 19:22:16 2003//TOPENBSD_5_3
+/shlib_version/1.9/Fri May 21 17:21:54 2010//TOPENBSD_5_3
+D/generated////

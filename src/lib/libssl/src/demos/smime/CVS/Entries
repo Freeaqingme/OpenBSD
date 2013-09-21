@@ -1,0 +1,12 @@
+/cacert.pem/1.1.1.1/Fri Oct  1 22:54:12 2010//TOPENBSD_5_3
+/cakey.pem/1.1.1.1/Fri Oct  1 22:54:12 2010//TOPENBSD_5_3
+/encr.txt/1.1.1.1/Fri Oct  1 22:54:12 2010//TOPENBSD_5_3
+/sign.txt/1.1.1.1/Fri Oct  1 22:54:12 2010//TOPENBSD_5_3
+/signer.pem/1.1.1.1/Fri Oct  1 22:54:12 2010//TOPENBSD_5_3
+/signer2.pem/1.1.1.1/Fri Oct  1 22:54:12 2010//TOPENBSD_5_3
+/smdec.c/1.1.1.1/Fri Oct  1 22:54:12 2010//TOPENBSD_5_3
+/smenc.c/1.1.1.1/Fri Oct  1 22:54:12 2010//TOPENBSD_5_3
+/smsign.c/1.1.1.1/Fri Oct  1 22:54:12 2010//TOPENBSD_5_3
+/smsign2.c/1.1.1.1/Fri Oct  1 22:54:12 2010//TOPENBSD_5_3
+/smver.c/1.1.1.1/Fri Oct  1 22:54:12 2010//TOPENBSD_5_3
+D

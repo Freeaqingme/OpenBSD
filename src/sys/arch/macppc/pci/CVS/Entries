@@ -1,0 +1,13 @@
+/agp_machdep.c/1.1/Tue Dec  4 10:42:05 2012//TOPENBSD_5_3
+/ht.c/1.15/Mon Jan 21 15:06:29 2013//TOPENBSD_5_3
+/kauaiata.c/1.10/Fri Apr 25 14:51:35 2008//TOPENBSD_5_3
+/macobio.c/1.20/Mon Dec 10 16:32:13 2012//TOPENBSD_5_3
+/macobio.h/1.2/Mon Dec 10 16:32:13 2012//TOPENBSD_5_3
+/mpcpcibus.c/1.45/Mon Jan 21 15:06:29 2013//TOPENBSD_5_3
+/pchb.c/1.13/Sat Dec 22 19:07:50 2012//TOPENBSD_5_3
+/pciide_machdep.c/1.4/Mon Dec 12 18:25:47 2005//TOPENBSD_5_3
+/vgafb.c/1.41/Thu Aug 30 21:54:13 2012//TOPENBSD_5_3
+/vgafb_pci.c/1.27/Thu Dec 13 13:55:18 2012//TOPENBSD_5_3
+/vgafb_pcivar.h/1.7/Thu Dec 13 13:55:18 2012//TOPENBSD_5_3
+/vgafbvar.h/1.15/Thu Aug 30 21:54:13 2012//TOPENBSD_5_3
+D

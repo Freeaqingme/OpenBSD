@@ -1,0 +1,11 @@
+/autoconf.c/1.3/Sun Jun 17 11:02:32 2012//TOPENBSD_5_3
+/bus_dma.c/1.7/Wed Oct  3 19:42:54 2012//TOPENBSD_5_3
+/conf.c/1.8/Thu Aug 23 06:12:49 2012//TOPENBSD_5_3
+/disksubr.c/1.7/Fri Jul  8 00:08:00 2011//TOPENBSD_5_3
+/genassym.cf/1.1/Mon Sep 20 06:32:30 2010//TOPENBSD_5_3
+/lock_machdep.c/1.3/Sat Sep 29 19:24:31 2012//TOPENBSD_5_3
+/locore.S/1.5/Wed Oct  3 11:18:23 2012//TOPENBSD_5_3
+/machdep.c/1.23/Mon Oct  8 21:47:50 2012//TOPENBSD_5_3
+/mutex.c/1.5/Thu Apr 21 04:34:12 2011//TOPENBSD_5_3
+/pciide_machdep.c/1.1/Thu Oct 28 22:52:10 2010//TOPENBSD_5_3
+D

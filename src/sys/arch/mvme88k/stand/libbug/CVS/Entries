@@ -1,0 +1,20 @@
+/Makefile/1.9/Sun Nov 25 14:10:47 2012//TOPENBSD_5_3
+/Makefile.inc/1.2/Sat Aug 22 07:39:52 1998//TOPENBSD_5_3
+/delay.c/1.4/Sat Jan  5 11:20:56 2013//TOPENBSD_5_3
+/diskrd.c/1.5/Sat Jan  5 11:20:56 2013//TOPENBSD_5_3
+/diskwr.c/1.4/Sat Jan  5 11:20:56 2013//TOPENBSD_5_3
+/getbrdid.c/1.4/Sat Jan  5 11:20:56 2013//TOPENBSD_5_3
+/inchr.c/1.3/Sat Jan  5 11:20:56 2013//TOPENBSD_5_3
+/instat.c/1.4/Sat Jan  5 11:20:56 2013//TOPENBSD_5_3
+/libbug.h/1.7/Sun Nov 25 14:10:47 2012//TOPENBSD_5_3
+/netcfig.c/1.2/Sat Jan  5 11:20:56 2013//TOPENBSD_5_3
+/netctrl.c/1.2/Sat Jan  5 11:20:56 2013//TOPENBSD_5_3
+/netfopen.c/1.2/Sat Jan  5 11:20:56 2013//TOPENBSD_5_3
+/netfread.c/1.2/Sat Jan  5 11:20:56 2013//TOPENBSD_5_3
+/outln.c/1.4/Sat Jan  5 11:20:56 2013//TOPENBSD_5_3
+/outstr.c/1.4/Sat Jan  5 11:20:56 2013//TOPENBSD_5_3
+/prom.h/1.6/Sat Jan  5 11:20:56 2013//TOPENBSD_5_3
+/putchar.c/1.5/Sat Jan  5 11:20:56 2013//TOPENBSD_5_3
+/return.c/1.4/Tue May 16 22:51:30 2006//TOPENBSD_5_3
+/rtc_rd.c/1.4/Sat Jan  5 11:20:56 2013//TOPENBSD_5_3
+D

@@ -1,0 +1,25 @@
+/bproto.t/1.1.1.2/Thu May 24 18:25:02 2001/-ko/TOPENBSD_5_3
+/cmdopt.t/1.8/Mon Sep 29 17:36:18 2008/-ko/TOPENBSD_5_3
+/colon.t/1.4/Fri Sep 24 15:07:05 2010/-ko/TOPENBSD_5_3
+/decl.t/1.9/Fri Sep 24 15:07:05 2010/-ko/TOPENBSD_5_3
+/final_line_num.t/1.1.1.1/Fri Sep 24 14:49:19 2010/-ko/TOPENBSD_5_3
+/fold.t/1.1.1.2/Fri Sep 24 14:49:20 2010/-ko/TOPENBSD_5_3
+/form_scope.t/1.1.1.1/Fri Sep 24 14:49:20 2010/-ko/TOPENBSD_5_3
+/hints.aux/1.1.1.1/Fri Sep 24 14:49:20 2010/-ko/TOPENBSD_5_3
+/hints.t/1.1.1.5/Fri Sep 24 14:49:20 2010/-ko/TOPENBSD_5_3
+/line_debug.t/1.1.1.1/Fri Sep 24 14:49:19 2010/-ko/TOPENBSD_5_3
+/line_debug_0.aux/1.1.1.1/Fri Sep 24 14:49:19 2010/-ko/TOPENBSD_5_3
+/multiline.t/1.9/Fri Sep 24 15:07:05 2010/-ko/TOPENBSD_5_3
+/opsubs.t/1.1.1.3/Fri Sep 24 14:49:20 2010/-ko/TOPENBSD_5_3
+/our.t/1.1.1.2/Fri Sep 24 14:49:20 2010/-ko/TOPENBSD_5_3
+/package.t/1.6/Fri Sep 24 15:07:05 2010/-ko/TOPENBSD_5_3
+/parser.t/1.1.1.6/Fri Sep 24 14:49:19 2010/-ko/TOPENBSD_5_3
+/proto.t/1.8/Fri Sep 24 15:07:05 2010/-ko/TOPENBSD_5_3
+/redef.t/1.3/Mon Aug  9 18:10:23 2004/-ko/TOPENBSD_5_3
+/require.t/1.3/Fri Sep 24 15:07:05 2010/-ko/TOPENBSD_5_3
+/retainedlines.t/1.1.1.2/Fri Sep 24 14:49:19 2010/-ko/TOPENBSD_5_3
+/term.t/1.4/Thu Apr  6 17:07:58 2000/-ko/TOPENBSD_5_3
+/uproto.t/1.1.1.2/Fri Sep 24 14:49:20 2010/-ko/TOPENBSD_5_3
+/use.t/1.8/Fri Sep 24 15:07:05 2010/-ko/TOPENBSD_5_3
+/utf.t/1.1.1.4/Fri Sep 24 14:49:20 2010/-ko/TOPENBSD_5_3
+D

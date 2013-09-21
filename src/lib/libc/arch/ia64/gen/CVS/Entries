@@ -1,0 +1,7 @@
+/Makefile.inc/1.1/Mon Jul  4 05:38:42 2011//TOPENBSD_5_3
+/flt_rounds.c/1.2/Wed Dec  5 23:19:58 2012//TOPENBSD_5_3
+/fpgetmask.c/1.2/Wed Dec  5 23:19:58 2012//TOPENBSD_5_3
+/fpgetround.c/1.1/Mon Jul  4 05:38:42 2011//TOPENBSD_5_3
+/fpsetmask.c/1.2/Wed Dec  5 23:19:58 2012//TOPENBSD_5_3
+/fpsetround.c/1.1/Mon Jul  4 05:38:42 2011//TOPENBSD_5_3
+D

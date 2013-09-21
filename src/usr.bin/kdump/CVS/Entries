@@ -1,0 +1,8 @@
+/Makefile/1.21/Thu Oct  6 20:49:28 2011//TOPENBSD_5_3
+/kdump.1/1.22/Tue Apr 10 20:39:37 2012//TOPENBSD_5_3
+/kdump.c/1.77/Tue Dec 25 09:35:51 2012//TOPENBSD_5_3
+/kdump.h/1.1/Wed Jul  2 20:54:17 2003//TOPENBSD_5_3
+/kdump_subr.h/1.8/Tue Dec 25 09:35:51 2012//TOPENBSD_5_3
+/mkioctls/1.27/Thu Oct  6 21:16:01 2011//TOPENBSD_5_3
+/mksubr/1.14/Tue Dec 25 09:35:51 2012//TOPENBSD_5_3
+D

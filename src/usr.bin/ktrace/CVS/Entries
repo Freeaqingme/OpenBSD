@@ -1,0 +1,7 @@
+/Makefile/1.3/Mon Sep 16 10:16:55 1996//TOPENBSD_5_3
+/extern.h/1.2/Sat Feb 16 21:27:47 2002//TOPENBSD_5_3
+/ktrace.1/1.23/Thu Jul 12 16:45:15 2012//TOPENBSD_5_3
+/ktrace.c/1.24/Thu Jul 12 18:03:29 2012//TOPENBSD_5_3
+/ktrace.h/1.4/Fri Jul  8 19:29:44 2011//TOPENBSD_5_3
+/subr.c/1.7/Fri Jul  8 19:29:44 2011//TOPENBSD_5_3
+D

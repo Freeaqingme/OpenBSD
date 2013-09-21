@@ -1,0 +1,16 @@
+/API.pod/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_3
+/Authoring.pod/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_3
+/Base.pm/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_3
+/Bundling.pod/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_3
+/Compat.pm/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_3
+/Config.pm/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_3
+/ConfigData.pm/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_3
+/Cookbook.pm/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_3
+/Dumper.pm/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_3
+/ModuleInfo.pm/1.2/Fri Sep 24 15:06:53 2010/-ko/TOPENBSD_5_3
+/Notes.pm/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_3
+/PPMMaker.pm/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_3
+/PodParser.pm/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_3
+/Version.pm/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_3
+/YAML.pm/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_3
+D/Platform////

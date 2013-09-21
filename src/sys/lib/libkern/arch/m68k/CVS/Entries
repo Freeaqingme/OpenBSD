@@ -1,0 +1,20 @@
+/DEFS.h/1.2/Fri Nov  7 15:57:00 1997//TOPENBSD_5_3
+/SYS.h/1.3/Mon Jun  2 23:28:08 2003//TOPENBSD_5_3
+/bcmp.S/1.5/Sat Feb  2 13:32:06 2013//TOPENBSD_5_3
+/bcopy.S/1.2/Wed Nov 28 11:46:35 2007//TOPENBSD_5_3
+/bzero.S/1.5/Sat Feb  2 13:32:06 2013//TOPENBSD_5_3
+/ffs.S/1.5/Sat Feb  2 13:32:06 2013//TOPENBSD_5_3
+/htonl.S/1.5/Sat Feb  2 13:32:06 2013//TOPENBSD_5_3
+/htons.S/1.5/Sat Feb  2 13:32:06 2013//TOPENBSD_5_3
+/memcmp.S/1.4/Sat Feb  2 13:32:06 2013//TOPENBSD_5_3
+/memcpy.S/1.2/Wed Nov 28 11:46:35 2007//TOPENBSD_5_3
+/memmove.S/1.2/Wed Nov 28 11:46:35 2007//TOPENBSD_5_3
+/memset.S/1.4/Sat Feb  2 13:32:06 2013//TOPENBSD_5_3
+/ovbcopy.S/1.2/Wed Nov 28 11:46:35 2007//TOPENBSD_5_3
+/scanc.S/1.4/Sat Feb  2 13:32:06 2013//TOPENBSD_5_3
+/skpc.S/1.4/Sat Feb  2 13:32:06 2013//TOPENBSD_5_3
+/strcmp.S/1.5/Sat Feb  2 13:32:06 2013//TOPENBSD_5_3
+/strlen.S/1.5/Sat Feb  2 13:32:06 2013//TOPENBSD_5_3
+/strncmp.S/1.5/Sat Feb  2 13:32:06 2013//TOPENBSD_5_3
+/strncpy.S/1.5/Sat Feb  2 13:32:06 2013//TOPENBSD_5_3
+D

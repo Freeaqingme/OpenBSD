@@ -1,0 +1,9 @@
+/Makefile/1.1/Sun Apr 20 16:51:52 2008//TOPENBSD_5_3
+/bcopy.S/1.5/Sun Nov 27 21:02:38 2011//TOPENBSD_5_3
+/bcopy.m4/1.9/Sun Nov 27 21:02:10 2011//TOPENBSD_5_3
+/memcpy.S/1.1/Sun Apr 20 16:51:52 2008//TOPENBSD_5_3
+/memmove.S/1.1/Sun Apr 20 16:51:52 2008//TOPENBSD_5_3
+/milli.S/1.1/Fri Apr  1 10:45:29 2005//TOPENBSD_5_3
+/ovbcopy.S/1.1/Sun Apr 20 16:51:52 2008//TOPENBSD_5_3
+/spcopy.S/1.5/Sun Nov 27 21:02:38 2011//TOPENBSD_5_3
+D
